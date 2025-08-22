@@ -7,6 +7,7 @@ Follow these steps to create and download your `credentials.json` file for Googl
 2. Create a new project (e.g., `GoogleSheetsAPI`)
 3. In the project, go to **API Library**
 	- Enable **Google Sheets API**
+	- Enable **Google Drive API**
 
 🔹 **Step 2: Create Service Account & JSON Key**
 1. In Cloud Console, go to **APIs & Services → Credentials**
@@ -18,7 +19,6 @@ Follow these steps to create and download your `credentials.json` file for Googl
 7. Download the `credentials.json` file and save it in your project folder
 
 ---
-# GoogleSheet-with-python
 # Google Sheets with Python
 
 This project demonstrates how to interact with Google Sheets using Python. You will learn how to read, write, and update data in Google Sheets programmatically.
